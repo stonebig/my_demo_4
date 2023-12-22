@@ -4,3 +4,22 @@ channels:
   - https://repo.mamba.pm/conda-forge
 dependencies:
   - ipycanvas
+  - matplotlib
+  - seaborn
+  - plotnine
+  - pandas
+  - statsmodels
+  - scikit-learn
+  - scipy
+  - sqlite
+  - altair
+  - ipympl
+  - ipyleaflet
+  - ipydatagrid
+  - ipycanvas
+  - vega_datasets
+  - plotly
+  - black
+  - xarray
+  - httpx
+  - baresql
